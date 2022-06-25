@@ -1,2 +1,3 @@
 # miPortafolio
-Pagina web Estatica con la funcion de mostrar tanto los proyectos publicos ya realizados como informacion publico personal para futuro contactos.
+
+Pagina web Estatica con la funcion de mostrar tanto los proyectos publicos ya realizados como informacion publico personal.
