@@ -1,6 +1,9 @@
 # 💼 miPortafolio
 Pagina web estatica desarrollado en el curso de **Full Stack Web Developer** dictado por **La Escuela de Desarrollo Económico y Productivo de Jujuy** en el dicatado del **modulo 1:** Entornos de trabajo y control de versiones
 
+🌐 github pages: https://red-mat.github.io/miPortafolio/
+
+
 ## 🧑‍💻 Desarrollo
 Para el desarrollo del sitio se utilizaron las siguentes herramientas.
 
