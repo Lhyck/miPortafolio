@@ -245,14 +245,14 @@ footer {
     align-items: center;
 }
 
+span {
+    margin-top: 5px;
+    color: var(--primary-color-dark);
+}
+
 .tech-icon-item-end {
     display: flex;
     flex-direction: column;
     margin-bottom: 80px;
     align-items: center;
-}
-
-span {
-    margin-top: 5px;
-    color: var(--primary-color-dark);
 }
